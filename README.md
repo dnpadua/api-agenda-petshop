@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre o projeto
 
-API desenvolvida no padrão REST utilizando MySQL para armazenamento dos dados é Express no lado do servidor, minupulação de datas com MomentJS é validação de dados antes do envio a DB.
+API Rest com NodeJS, CRUD utilizando MySQL para armazenamento dos dados é Express no lado do servidor, minupulação de datas com MomentJS é validação de dados antes do envio a DB.
 
 Conheça mais das tecnologias utilizadas no projeto em:
 
