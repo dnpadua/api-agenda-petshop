@@ -1,4 +1,4 @@
-# API Rest com NodeJS: Agenda PetShop 🐶🐱
+# Agenda PetShop 🐶🐱
 
 ## 👨‍💻 Sobre o projeto
 
